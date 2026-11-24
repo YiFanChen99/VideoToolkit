@@ -1,0 +1,8 @@
+# list_video_info.py 掃描的資料夾：名稱 = 路徑
+# 複製成同資料夾的 folders.txt 再改成自己的資料夾；folders.txt 不進 repo
+# 一行一個，# 開頭是註解。名稱會寫進清單的「資料夾」欄，執行時可以只指定其中幾個名稱，例如 python -m video_list.list_video_info 舞蹈
+# 改了名稱的話，舊名稱的列會在下次掃描時依大小和修改時間認回來，標籤不會掉
+
+舞蹈 = D:\Videos\舞蹈
+MV = D:\Videos\MV
+演唱會 = E:\外接硬碟\演唱會
